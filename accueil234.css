@@ -1,0 +1,22 @@
+table {
+	margin:auto;
+}
+
+h1 {
+	text-align:center;
+}
+
+form {
+	text-align: center;
+}
+
+h4 {
+	text-align:center;
+}
+
+td,th {
+	table-layout: auto;
+	width: 15%;
+	padding: 5px;
+}
+
